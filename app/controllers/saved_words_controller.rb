@@ -1,0 +1,2 @@
+class SavedWordsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class SavedWord < ApplicationRecord
+end
