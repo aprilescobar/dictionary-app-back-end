@@ -1,7 +1,15 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+# sw1 = SavedWord.create(
+#     word: 'wonder',
+#     definitions: [
+#         {
+#             definition: "a feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar.",
+#             example: "he observed the intricacy of the ironwork with the wonder of a child",
+#             type: "noun"
+#         }, 
+#         {
+#             definition: "a person or thing regarded as very good, remarkable, or effective.",
+#             example: "we all eat cakes from Gisellaâshe's a wonder",
+#             type: "noun"
+#         },
+#     ]
+# )
